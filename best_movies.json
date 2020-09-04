@@ -1,0 +1,1851 @@
+[
+    {
+        "title": "The Shawshank Redemption ",
+        "year": "1994",
+        "duratrion": "2h 22min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0111161/"
+    },
+    {
+        "title": "Your Name. ",
+        "year": "2016",
+        "duratrion": "1h 46min",
+        "genre": "Animation",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt5311514/"
+    },
+    {
+        "title": "3 Idiots ",
+        "year": "2009",
+        "duratrion": "2h 50min",
+        "genre": "Comedy",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt1187043/"
+    },
+    {
+        "title": "Like Stars on Earth ",
+        "year": "2007",
+        "duratrion": "2h 45min",
+        "genre": "Drama",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0986264/"
+    },
+    {
+        "title": "Django Unchained ",
+        "year": "2012",
+        "duratrion": "2h 45min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1853728/"
+    },
+    {
+        "title": "Dangal ",
+        "year": "2016",
+        "duratrion": "2h 41min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt5074352/"
+    },
+    {
+        "title": "Capernaum ",
+        "year": "2018",
+        "duratrion": "2h 6min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt8267604/"
+    },
+    {
+        "title": "Modern Times ",
+        "year": "1936",
+        "duratrion": "1h 27min",
+        "genre": "Comedy",
+        "rating": "G",
+        "movie_url": "https://www.imdb.com/title/tt0027977/"
+    },
+    {
+        "title": "Avengers: Endgame ",
+        "year": "2019",
+        "duratrion": "3h 1min",
+        "genre": "Action",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt4154796/"
+    },
+    {
+        "title": "City Lights ",
+        "year": "1931",
+        "duratrion": "1h 27min",
+        "genre": "Comedy",
+        "rating": "G",
+        "movie_url": "https://www.imdb.com/title/tt0021749/"
+    },
+    {
+        "title": "High and Low ",
+        "year": "1963",
+        "duratrion": "2h 23min",
+        "genre": "Crime",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0057565/"
+    },
+    {
+        "title": "Grave of the Fireflies ",
+        "year": "1988",
+        "duratrion": "1h 29min",
+        "genre": "Animation",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0095327/"
+    },
+    {
+        "title": "The Lives of Others ",
+        "year": "2006",
+        "duratrion": "2h 17min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0405094/"
+    },
+    {
+        "title": "Léon: The Professional ",
+        "year": "1994",
+        "duratrion": "1h 50min",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0110413/"
+    },
+    {
+        "title": "Cinema Paradiso ",
+        "year": "1988",
+        "duratrion": "2h 35min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0095765/"
+    },
+    {
+        "title": "American History X ",
+        "year": "1998",
+        "duratrion": "1h 59min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0120586/"
+    },
+    {
+        "title": "Gladiator ",
+        "year": "2000",
+        "duratrion": "2h 35min",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0172495/"
+    },
+    {
+        "title": "The Departed ",
+        "year": "2006",
+        "duratrion": "2h 31min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0407887/"
+    },
+    {
+        "title": "Casablanca ",
+        "year": "1942",
+        "duratrion": "1h 42min",
+        "genre": "Drama",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0034583/"
+    },
+    {
+        "title": "The Pianist ",
+        "year": "2002",
+        "duratrion": "2h 30min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0253474/"
+    },
+    {
+        "title": "The Lion King ",
+        "year": "1994",
+        "duratrion": "1h 28min",
+        "genre": "Animation",
+        "rating": "G",
+        "movie_url": "https://www.imdb.com/title/tt0110357/"
+    },
+    {
+        "title": "Whiplash ",
+        "year": "2014",
+        "duratrion": "1h 46min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt2582802/"
+    },
+    {
+        "title": "The Prestige ",
+        "year": "2006",
+        "duratrion": "2h 10min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0482571/"
+    },
+    {
+        "title": "It's a Wonderful Life ",
+        "year": "1946",
+        "duratrion": "2h 10min",
+        "genre": "Drama",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0038650/"
+    },
+    {
+        "title": "The Intouchables ",
+        "year": "2011",
+        "duratrion": "1h 52min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1675434/"
+    },
+    {
+        "title": "The Silence of the Lambs ",
+        "year": "1991",
+        "duratrion": "1h 58min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0102926/"
+    },
+    {
+        "title": "Joker ",
+        "year": "2019",
+        "duratrion": "2h 2min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt7286456/"
+    },
+    {
+        "title": "Anand ",
+        "year": "1971",
+        "duratrion": "2h 2min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0066763/"
+    },
+    {
+        "title": "Se7en ",
+        "year": "1995",
+        "duratrion": "2h 7min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0114369/"
+    },
+    {
+        "title": "The Green Mile ",
+        "year": "1999",
+        "duratrion": "3h 9min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0120689/"
+    },
+    {
+        "title": "City of God ",
+        "year": "2002",
+        "duratrion": "2h 10min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0317248/"
+    },
+    {
+        "title": "Harakiri ",
+        "year": "1962",
+        "duratrion": "2h 13min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0056058/"
+    },
+    {
+        "title": "Saving Private Ryan ",
+        "year": "1998",
+        "duratrion": "2h 49min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0120815/"
+    },
+    {
+        "title": "Seven Samurai ",
+        "year": "1954",
+        "duratrion": "3h 27min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0047478/"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest ",
+        "year": "1975",
+        "duratrion": "2h 13min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0073486/"
+    },
+    {
+        "title": "Parasite ",
+        "year": "2019",
+        "duratrion": "2h 12min",
+        "genre": "Comedy",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt6751668/"
+    },
+    {
+        "title": "Life Is Beautiful ",
+        "year": "1997",
+        "duratrion": "1h 56min",
+        "genre": "Comedy",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0118799/"
+    },
+    {
+        "title": "Goodfellas ",
+        "year": "1990",
+        "duratrion": "2h 26min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0099685/"
+    },
+    {
+        "title": "Interstellar ",
+        "year": "2014",
+        "duratrion": "2h 49min",
+        "genre": "Adventure",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0816692/"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers ",
+        "year": "2002",
+        "duratrion": "2h 59min",
+        "genre": "Adventure",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0167261/"
+    },
+    {
+        "title": "Forrest Gump ",
+        "year": "1994",
+        "duratrion": "2h 22min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring ",
+        "year": "2001",
+        "duratrion": "2h 58min",
+        "genre": "Action",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0120737/"
+    },
+    {
+        "title": "Fight Club ",
+        "year": "1999",
+        "duratrion": "2h 19min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0137523/"
+    },
+    {
+        "title": "12 Angry Men ",
+        "year": "1957",
+        "duratrion": "1h 36min",
+        "genre": "Crime",
+        "rating": "Approved",
+        "movie_url": "https://www.imdb.com/title/tt0050083/"
+    },
+    {
+        "title": "Schindler's List ",
+        "year": "1993",
+        "duratrion": "3h 15min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King ",
+        "year": "2003",
+        "duratrion": "3h 21min",
+        "genre": "Adventure",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0167260/"
+    },
+    {
+        "title": "The Godfather: Part II ",
+        "year": "1974",
+        "duratrion": "3h 22min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0071562/"
+    },
+    {
+        "title": "Pulp Fiction ",
+        "year": "1994",
+        "duratrion": "2h 34min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0110912/"
+    },
+    {
+        "title": "The Dark Knight ",
+        "year": "2008",
+        "duratrion": "2h 32min",
+        "genre": "Action",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+        "title": "The Godfather ",
+        "year": "1972",
+        "duratrion": "2h 55min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0068646/"
+    }
+][
+    {
+        "title": "The Shawshank Redemption ",
+        "year": "1994",
+        "duratrion": "2h 22min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0111161/"
+    },
+    {
+        "title": "Like Stars on Earth ",
+        "year": "2007",
+        "duratrion": "2h 45min",
+        "genre": "Drama",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0986264/"
+    },
+    {
+        "title": "3 Idiots ",
+        "year": "2009",
+        "duratrion": "2h 50min",
+        "genre": "Comedy",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt1187043/"
+    },
+    {
+        "title": "Dangal ",
+        "year": "2016",
+        "duratrion": "2h 41min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt5074352/"
+    },
+    {
+        "title": "Django Unchained ",
+        "year": "2012",
+        "duratrion": "2h 45min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1853728/"
+    },
+    {
+        "title": "The Lives of Others ",
+        "year": "2006",
+        "duratrion": "2h 17min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0405094/"
+    },
+    {
+        "title": "Your Name. ",
+        "year": "2016",
+        "duratrion": "1h 46min",
+        "genre": "Animation",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt5311514/"
+    },
+    {
+        "title": "Capernaum ",
+        "year": "2018",
+        "duratrion": "2h 6min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt8267604/"
+    },
+    {
+        "title": "City Lights ",
+        "year": "1931",
+        "duratrion": "1h 27min",
+        "genre": "Comedy",
+        "rating": "G",
+        "movie_url": "https://www.imdb.com/title/tt0021749/"
+    },
+    {
+        "title": "Grave of the Fireflies ",
+        "year": "1988",
+        "duratrion": "1h 29min",
+        "genre": "Animation",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0095327/"
+    },
+    {
+        "title": "Modern Times ",
+        "year": "1936",
+        "duratrion": "1h 27min",
+        "genre": "Comedy",
+        "rating": "G",
+        "movie_url": "https://www.imdb.com/title/tt0027977/"
+    },
+    {
+        "title": "High and Low ",
+        "year": "1963",
+        "duratrion": "2h 23min",
+        "genre": "Crime",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0057565/"
+    },
+    {
+        "title": "Casablanca ",
+        "year": "1942",
+        "duratrion": "1h 42min",
+        "genre": "Drama",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0034583/"
+    },
+    {
+        "title": "Cinema Paradiso ",
+        "year": "1988",
+        "duratrion": "2h 35min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0095765/"
+    },
+    {
+        "title": "Rang De Basanti ",
+        "year": "2006",
+        "duratrion": "2h 47min",
+        "genre": "Comedy",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0405508/"
+    },
+    {
+        "title": "The Lion King ",
+        "year": "1994",
+        "duratrion": "1h 28min",
+        "genre": "Animation",
+        "rating": "G",
+        "movie_url": "https://www.imdb.com/title/tt0110357/"
+    },
+    {
+        "title": "V for Vendetta ",
+        "year": "2005",
+        "duratrion": "2h 12min",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0434409/"
+    },
+    {
+        "title": "Avengers: Endgame ",
+        "year": "2019",
+        "duratrion": "3h 1min",
+        "genre": "Action",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt4154796/"
+    },
+    {
+        "title": "Pan's Labyrinth ",
+        "year": "2006",
+        "duratrion": "1h 58min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0457430/"
+    },
+    {
+        "title": "There Will Be Blood ",
+        "year": "2007",
+        "duratrion": "2h 38min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0469494/"
+    },
+    {
+        "title": "The Wolf of Wall Street ",
+        "year": "2013",
+        "duratrion": "3h",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0993846/"
+    },
+    {
+        "title": "The Secret in Their Eyes ",
+        "year": "2009",
+        "duratrion": "2h 9min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1305806/"
+    },
+    {
+        "title": "Gangs of Wasseypur ",
+        "year": "2012",
+        "duratrion": "5h 21min",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1954470/"
+    },
+    {
+        "title": "Warrior ",
+        "year": "2011",
+        "duratrion": "2h 20min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt1291584/"
+    },
+    {
+        "title": "Swades ",
+        "year": "2004",
+        "duratrion": "3h 9min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0367110/"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri ",
+        "year": "2017",
+        "duratrion": "1h 55min",
+        "genre": "Comedy",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt5027774/"
+    },
+    {
+        "title": "The Kid ",
+        "year": "1921",
+        "duratrion": "1h 8min",
+        "genre": "Comedy",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0012349/"
+    },
+    {
+        "title": "Drishyam ",
+        "year": "2015",
+        "duratrion": "2h 43min",
+        "genre": "Crime",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt4430212/"
+    },
+    {
+        "title": "Green Book ",
+        "year": "2018",
+        "duratrion": "2h 10min",
+        "genre": "Biography",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt6966692/"
+    },
+    {
+        "title": "The Truman Show ",
+        "year": "1998",
+        "duratrion": "1h 43min",
+        "genre": "Comedy",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0120382/"
+    },
+    {
+        "title": "Metropolis ",
+        "year": "1927",
+        "duratrion": "2h 33min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0017136/"
+    },
+    {
+        "title": "The Sixth Sense ",
+        "year": "1999",
+        "duratrion": "1h 47min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0167404/"
+    },
+    {
+        "title": "Catch Me If You Can ",
+        "year": "2002",
+        "duratrion": "2h 21min",
+        "genre": "Biography",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0264464/"
+    },
+    {
+        "title": "Memories of Murder ",
+        "year": "2003",
+        "duratrion": "2h 12min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0353969/"
+    },
+    {
+        "title": "Hotel Rwanda ",
+        "year": "2004",
+        "duratrion": "2h 1min",
+        "genre": "Biography",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0395169/"
+    },
+    {
+        "title": "Amores Perros ",
+        "year": "2000",
+        "duratrion": "2h 34min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0245712/"
+    },
+    {
+        "title": "Munna Bhai M.B.B.S. ",
+        "year": "2003",
+        "duratrion": "2h 36min",
+        "genre": "Comedy",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0374887/"
+    },
+    {
+        "title": "Into the Wild ",
+        "year": "2007",
+        "duratrion": "2h 28min",
+        "genre": "Adventure",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0758758/"
+    },
+    {
+        "title": "Million Dollar Baby ",
+        "year": "2004",
+        "duratrion": "2h 12min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0405159/"
+    },
+    {
+        "title": "No Country for Old Men ",
+        "year": "2007",
+        "duratrion": "2h 2min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0477348/"
+    },
+    {
+        "title": "Mary and Max ",
+        "year": "2009",
+        "duratrion": "1h 32min",
+        "genre": "Animation",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0978762/"
+    },
+    {
+        "title": "Hachi: A Dog's Tale ",
+        "year": "2009",
+        "duratrion": "1h 33min",
+        "genre": "Drama",
+        "rating": "G",
+        "movie_url": "https://www.imdb.com/title/tt1028532/"
+    },
+    {
+        "title": "Prisoners ",
+        "year": "2013",
+        "duratrion": "2h 33min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1392214/"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2 ",
+        "year": "2011",
+        "duratrion": "2h 10min",
+        "genre": "Adventure",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt1201607/"
+    },
+    {
+        "title": "The Passion of Joan of Arc ",
+        "year": "1928",
+        "duratrion": "1h 54min",
+        "genre": "Biography",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0019254/"
+    },
+    {
+        "title": "Gran Torino ",
+        "year": "2008",
+        "duratrion": "1h 56min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1205489/"
+    },
+    {
+        "title": "Mr. Smith Goes to Washington ",
+        "year": "1939",
+        "duratrion": "2h 9min",
+        "genre": "Comedy",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0031679/"
+    },
+    {
+        "title": "The General ",
+        "year": "1926",
+        "duratrion": "1h 7min",
+        "genre": "Action",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0017925/"
+    },
+    {
+        "title": "Gone with the Wind ",
+        "year": "1939",
+        "duratrion": "3h 58min",
+        "genre": "Drama",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0031381/"
+    },
+    {
+        "title": "The Wages of Fear ",
+        "year": "1953",
+        "duratrion": "2h 11min",
+        "genre": "Adventure",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0046268/"
+    },
+    {
+        "title": "The Bridge on the River Kwai ",
+        "year": "1957",
+        "duratrion": "2h 41min",
+        "genre": "Adventure",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0050212/"
+    },
+    {
+        "title": "Rebecca ",
+        "year": "1940",
+        "duratrion": "2h 10min",
+        "genre": "Drama",
+        "rating": "Approved",
+        "movie_url": "https://www.imdb.com/title/tt0032976/"
+    },
+    {
+        "title": "Before Sunset ",
+        "year": "2004",
+        "duratrion": "1h 20min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0381681/"
+    },
+    {
+        "title": "Ben-Hur ",
+        "year": "1959",
+        "duratrion": "3h 32min",
+        "genre": "Adventure",
+        "rating": "G",
+        "movie_url": "https://www.imdb.com/title/tt0052618/"
+    },
+    {
+        "title": "The 400 Blows ",
+        "year": "1959",
+        "duratrion": "1h 39min",
+        "genre": "Crime",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0053198/"
+    },
+    {
+        "title": "Throne of Blood ",
+        "year": "1957",
+        "duratrion": "1h 50min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0050613/"
+    },
+    {
+        "title": "Andrei Rublev ",
+        "year": "1966",
+        "duratrion": "3h 25min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0060107/"
+    },
+    {
+        "title": "Persona ",
+        "year": "1966",
+        "duratrion": "1h 23min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0060827/"
+    },
+    {
+        "title": "On the Waterfront ",
+        "year": "1954",
+        "duratrion": "1h 48min",
+        "genre": "Crime",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0047296/"
+    },
+    {
+        "title": "Cool Hand Luke ",
+        "year": "1967",
+        "duratrion": "2h 7min",
+        "genre": "Crime",
+        "rating": "GP",
+        "movie_url": "https://www.imdb.com/title/tt0061512/"
+    },
+    {
+        "title": "Network ",
+        "year": "1976",
+        "duratrion": "2h 1min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0074958/"
+    },
+    {
+        "title": "The Deer Hunter ",
+        "year": "1978",
+        "duratrion": "3h 3min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0077416/"
+    },
+    {
+        "title": "Barry Lyndon ",
+        "year": "1975",
+        "duratrion": "3h 5min",
+        "genre": "Adventure",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0072684/"
+    },
+    {
+        "title": "Rocky ",
+        "year": "1976",
+        "duratrion": "2h",
+        "genre": "Drama",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0075148/"
+    },
+    {
+        "title": "Paris, Texas ",
+        "year": "1984",
+        "duratrion": "2h 25min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0087884/"
+    },
+    {
+        "title": "The Elephant Man ",
+        "year": "1980",
+        "duratrion": "2h 4min",
+        "genre": "Biography",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0080678/"
+    },
+    {
+        "title": "Fanny and Alexander ",
+        "year": "1982",
+        "duratrion": "3h 8min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0083922/"
+    },
+    {
+        "title": "Dead Poets Society ",
+        "year": "1989",
+        "duratrion": "2h 8min",
+        "genre": "Comedy",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0097165/"
+    },
+    {
+        "title": "Platoon ",
+        "year": "1986",
+        "duratrion": "2h",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0091763/"
+    },
+    {
+        "title": "Stand by Me ",
+        "year": "1986",
+        "duratrion": "1h 29min",
+        "genre": "Adventure",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0092005/"
+    },
+    {
+        "title": "Before Sunrise ",
+        "year": "1995",
+        "duratrion": "1h 41min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0112471/"
+    },
+    {
+        "title": "La Haine ",
+        "year": "1995",
+        "duratrion": "1h 38min",
+        "genre": "Crime",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0113247/"
+    },
+    {
+        "title": "In the Name of the Father ",
+        "year": "1993",
+        "duratrion": "2h 13min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0107207/"
+    },
+    {
+        "title": "Fargo ",
+        "year": "1996",
+        "duratrion": "1h 38min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0116282/"
+    },
+    {
+        "title": "The Help ",
+        "year": "2011",
+        "duratrion": "2h 26min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt1454029/"
+    },
+    {
+        "title": "Spotlight ",
+        "year": "2015",
+        "duratrion": "2h 9min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1895587/"
+    },
+    {
+        "title": "Trainspotting ",
+        "year": "1996",
+        "duratrion": "1h 33min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0117951/"
+    },
+    {
+        "title": "Rush ",
+        "year": "2013",
+        "duratrion": "2h 3min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1979320/"
+    },
+    {
+        "title": "Ford v Ferrari ",
+        "year": "2019",
+        "duratrion": "2h 32min",
+        "genre": "Action",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt1950186/"
+    },
+    {
+        "title": "In the Mood for Love ",
+        "year": "2000",
+        "duratrion": "1h 38min",
+        "genre": "Drama",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0118694/"
+    },
+    {
+        "title": "12 Years a Slave ",
+        "year": "2013",
+        "duratrion": "2h 14min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt2024544/"
+    },
+    {
+        "title": "Hacksaw Ridge ",
+        "year": "2016",
+        "duratrion": "2h 19min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt2119532/"
+    },
+    {
+        "title": "Inside Out ",
+        "year": "2015",
+        "duratrion": "1h 35min",
+        "genre": "Animation",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt2096673/"
+    },
+    {
+        "title": "Gone Girl ",
+        "year": "2014",
+        "duratrion": "2h 29min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt2267998/"
+    },
+    {
+        "title": "Room ",
+        "year": "2015",
+        "duratrion": "1h 58min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt3170832/"
+    },
+    {
+        "title": "Wild Tales ",
+        "year": "2014",
+        "duratrion": "2h 2min",
+        "genre": "Comedy",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt3011894/"
+    },
+    {
+        "title": "The Handmaiden ",
+        "year": "2016",
+        "duratrion": "2h 25min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt4016934/"
+    },
+    {
+        "title": "Logan ",
+        "year": "2017",
+        "duratrion": "2h 17min",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt3315342/"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre ",
+        "year": "1948",
+        "duratrion": "2h 6min",
+        "genre": "Adventure",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0040897/"
+    },
+    {
+        "title": "All About Eve ",
+        "year": "1950",
+        "duratrion": "2h 18min",
+        "genre": "Drama",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0042192/"
+    },
+    {
+        "title": "Portrait of a Lady on Fire ",
+        "year": "2019",
+        "duratrion": "2h 2min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt8613070/"
+    },
+    {
+        "title": "Tokyo Story ",
+        "year": "1953",
+        "duratrion": "2h 16min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0046438/"
+    },
+    {
+        "title": "The Seventh Seal ",
+        "year": "1957",
+        "duratrion": "1h 36min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0050976/"
+    },
+    {
+        "title": "Rashomon ",
+        "year": "1950",
+        "duratrion": "1h 28min",
+        "genre": "Crime",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0042876/"
+    },
+    {
+        "title": "Wild Strawberries ",
+        "year": "1957",
+        "duratrion": "1h 31min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0050986/"
+    },
+    {
+        "title": "Judgment at Nuremberg ",
+        "year": "1961",
+        "duratrion": "2h 59min",
+        "genre": "Drama",
+        "rating": "Approved",
+        "movie_url": "https://www.imdb.com/title/tt0055031/"
+    },
+    {
+        "title": "The Great Escape ",
+        "year": "1963",
+        "duratrion": "2h 52min",
+        "genre": "Adventure",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0057115/"
+    },
+    {
+        "title": "Chinatown ",
+        "year": "1974",
+        "duratrion": "2h 10min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0071315/"
+    },
+    {
+        "title": "The Gold Rush ",
+        "year": "1925",
+        "duratrion": "1h 35min",
+        "genre": "Adventure",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0015864/"
+    },
+    {
+        "title": "To Kill a Mockingbird ",
+        "year": "1962",
+        "duratrion": "2h 9min",
+        "genre": "Crime",
+        "rating": "Approved",
+        "movie_url": "https://www.imdb.com/title/tt0056592/"
+    },
+    {
+        "title": "Raging Bull ",
+        "year": "1980",
+        "duratrion": "2h 9min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0081398/"
+    },
+    {
+        "title": "Yojimbo ",
+        "year": "1961",
+        "duratrion": "1h 50min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0055630/"
+    },
+    {
+        "title": "Ran ",
+        "year": "1985",
+        "duratrion": "2h 42min",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0089881/"
+    },
+    {
+        "title": "Stalker ",
+        "year": "1979",
+        "duratrion": "2h 42min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0079944/"
+    },
+    {
+        "title": "Casino ",
+        "year": "1995",
+        "duratrion": "2h 58min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0112641/"
+    },
+    {
+        "title": "L.A. Confidential ",
+        "year": "1997",
+        "duratrion": "2h 18min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0119488/"
+    },
+    {
+        "title": "Hera Pheri ",
+        "year": "2000",
+        "duratrion": "2h 36min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0242519/"
+    },
+    {
+        "title": "Citizen Kane ",
+        "year": "1941",
+        "duratrion": "1h 59min",
+        "genre": "Drama",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0033467/"
+    },
+    {
+        "title": "Downfall ",
+        "year": "2004",
+        "duratrion": "2h 36min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0363163/"
+    },
+    {
+        "title": "A Beautiful Mind ",
+        "year": "2001",
+        "duratrion": "2h 15min",
+        "genre": "Biography",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0268978/"
+    },
+    {
+        "title": "Unforgiven ",
+        "year": "1992",
+        "duratrion": "2h 10min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0105695/"
+    },
+    {
+        "title": "Heat ",
+        "year": "1995",
+        "duratrion": "2h 50min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0113277/"
+    },
+    {
+        "title": "The Apartment ",
+        "year": "1960",
+        "duratrion": "2h 5min",
+        "genre": "Comedy",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0053604/"
+    },
+    {
+        "title": "Ikiru ",
+        "year": "1952",
+        "duratrion": "2h 23min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0044741/"
+    },
+    {
+        "title": "A Clockwork Orange ",
+        "year": "1971",
+        "duratrion": "2h 16min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0066921/"
+    },
+    {
+        "title": "Bicycle Thieves ",
+        "year": "1948",
+        "duratrion": "1h 29min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0040522/"
+    },
+    {
+        "title": "Taxi Driver ",
+        "year": "1976",
+        "duratrion": "1h 54min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0075314/"
+    },
+    {
+        "title": "The Sting ",
+        "year": "1973",
+        "duratrion": "2h 9min",
+        "genre": "Comedy",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0070735/"
+    },
+    {
+        "title": "Das Boot ",
+        "year": "1981",
+        "duratrion": "2h 29min",
+        "genre": "Adventure",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0082096/"
+    },
+    {
+        "title": "Double Indemnity ",
+        "year": "1944",
+        "duratrion": "1h 47min",
+        "genre": "Crime",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0036775/"
+    },
+    {
+        "title": "Amadeus ",
+        "year": "1984",
+        "duratrion": "2h 40min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0086879/"
+    },
+    {
+        "title": "Full Metal Jacket ",
+        "year": "1987",
+        "duratrion": "1h 56min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0093058/"
+    },
+    {
+        "title": "Come and See ",
+        "year": "1985",
+        "duratrion": "2h 22min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0091251/"
+    },
+    {
+        "title": "Scarface ",
+        "year": "1983",
+        "duratrion": "2h 50min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0086250/"
+    },
+    {
+        "title": "Braveheart ",
+        "year": "1995",
+        "duratrion": "2h 58min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0112573/"
+    },
+    {
+        "title": "Reservoir Dogs ",
+        "year": "1992",
+        "duratrion": "1h 39min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0105236/"
+    },
+    {
+        "title": "Lawrence of Arabia ",
+        "year": "1962",
+        "duratrion": "3h 48min",
+        "genre": "Adventure",
+        "rating": "Approved",
+        "movie_url": "https://www.imdb.com/title/tt0056172/"
+    },
+    {
+        "title": "The Bandit ",
+        "year": "1996",
+        "duratrion": "2h 8min",
+        "genre": "Crime",
+        "rating": "TV-MA",
+        "movie_url": "https://www.imdb.com/title/tt0116231/"
+    },
+    {
+        "title": "Good Will Hunting ",
+        "year": "1997",
+        "duratrion": "2h 6min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0119217/"
+    },
+    {
+        "title": "American Beauty ",
+        "year": "1999",
+        "duratrion": "2h 2min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0169547/"
+    },
+    {
+        "title": "Requiem for a Dream ",
+        "year": "2000",
+        "duratrion": "1h 42min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0180093/"
+    },
+    {
+        "title": "Children of Heaven ",
+        "year": "1997",
+        "duratrion": "1h 29min",
+        "genre": "Drama",
+        "rating": "PG",
+        "movie_url": "https://www.imdb.com/title/tt0118849/"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind ",
+        "year": "2004",
+        "duratrion": "1h 48min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0338013/"
+    },
+    {
+        "title": "Inglourious Basterds ",
+        "year": "2009",
+        "duratrion": "2h 33min",
+        "genre": "Adventure",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0361748/"
+    },
+    {
+        "title": "My Father and My Son ",
+        "year": "2005",
+        "duratrion": "1h 52min",
+        "genre": "Drama",
+        "rating": "",
+        "movie_url": "https://www.imdb.com/title/tt0476735/"
+    },
+    {
+        "title": "The Hunt ",
+        "year": "2012",
+        "duratrion": "1h 55min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt2106476/"
+    },
+    {
+        "title": "Incendies ",
+        "year": "2010",
+        "duratrion": "2h 11min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1255953/"
+    },
+    {
+        "title": "A Separation ",
+        "year": "2011",
+        "duratrion": "2h 3min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt1832382/"
+    },
+    {
+        "title": "Sunset Blvd. ",
+        "year": "1950",
+        "duratrion": "1h 50min",
+        "genre": "Drama",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0043014/"
+    },
+    {
+        "title": "1917 ",
+        "year": "2019",
+        "duratrion": "1h 59min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt8579674/"
+    },
+    {
+        "title": "The Great Dictator ",
+        "year": "1940",
+        "duratrion": "2h 5min",
+        "genre": "Comedy",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0032553/"
+    },
+    {
+        "title": "Paths of Glory ",
+        "year": "1957",
+        "duratrion": "1h 28min",
+        "genre": "Drama",
+        "rating": "Approved",
+        "movie_url": "https://www.imdb.com/title/tt0050825/"
+    },
+    {
+        "title": "Witness for the Prosecution ",
+        "year": "1957",
+        "duratrion": "1h 56min",
+        "genre": "Crime",
+        "rating": "Approved",
+        "movie_url": "https://www.imdb.com/title/tt0051201/"
+    },
+    {
+        "title": "The Shining ",
+        "year": "1980",
+        "duratrion": "2h 26min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0081505/"
+    },
+    {
+        "title": "Once Upon a Time in America ",
+        "year": "1984",
+        "duratrion": "3h 49min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0087843/"
+    },
+    {
+        "title": "American History X ",
+        "year": "1998",
+        "duratrion": "1h 59min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0120586/"
+    },
+    {
+        "title": "Apocalypse Now ",
+        "year": "1979",
+        "duratrion": "2h 27min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0078788/"
+    },
+    {
+        "title": "Oldboy ",
+        "year": "2003",
+        "duratrion": "2h",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0364569/"
+    },
+    {
+        "title": "Léon: The Professional ",
+        "year": "1994",
+        "duratrion": "1h 50min",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0110413/"
+    },
+    {
+        "title": "The Intouchables ",
+        "year": "2011",
+        "duratrion": "1h 52min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt1675434/"
+    },
+    {
+        "title": "Gladiator ",
+        "year": "2000",
+        "duratrion": "2h 35min",
+        "genre": "Action",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0172495/"
+    },
+    {
+        "title": "The Prestige ",
+        "year": "2006",
+        "duratrion": "2h 10min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0482571/"
+    },
+    {
+        "title": "The Pianist ",
+        "year": "2002",
+        "duratrion": "2h 30min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0253474/"
+    },
+    {
+        "title": "Whiplash ",
+        "year": "2014",
+        "duratrion": "1h 46min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt2582802/"
+    },
+    {
+        "title": "It's a Wonderful Life ",
+        "year": "1946",
+        "duratrion": "2h 10min",
+        "genre": "Drama",
+        "rating": "Passed",
+        "movie_url": "https://www.imdb.com/title/tt0038650/"
+    },
+    {
+        "title": "Joker ",
+        "year": "2019",
+        "duratrion": "2h 2min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt7286456/"
+    },
+    {
+        "title": "The Departed ",
+        "year": "2006",
+        "duratrion": "2h 31min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0407887/"
+    },
+    {
+        "title": "Seven Samurai ",
+        "year": "1954",
+        "duratrion": "3h 27min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0047478/"
+    },
+    {
+        "title": "Anand ",
+        "year": "1971",
+        "duratrion": "2h 2min",
+        "genre": "Drama",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0066763/"
+    },
+    {
+        "title": "The Green Mile ",
+        "year": "1999",
+        "duratrion": "3h 9min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0120689/"
+    },
+    {
+        "title": "Saving Private Ryan ",
+        "year": "1998",
+        "duratrion": "2h 49min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0120815/"
+    },
+    {
+        "title": "The Silence of the Lambs ",
+        "year": "1991",
+        "duratrion": "1h 58min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0102926/"
+    },
+    {
+        "title": "Life Is Beautiful ",
+        "year": "1997",
+        "duratrion": "1h 56min",
+        "genre": "Comedy",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0118799/"
+    },
+    {
+        "title": "Se7en ",
+        "year": "1995",
+        "duratrion": "2h 7min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0114369/"
+    },
+    {
+        "title": "Interstellar ",
+        "year": "2014",
+        "duratrion": "2h 49min",
+        "genre": "Adventure",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0816692/"
+    },
+    {
+        "title": "City of God ",
+        "year": "2002",
+        "duratrion": "2h 10min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0317248/"
+    },
+    {
+        "title": "Harakiri ",
+        "year": "1962",
+        "duratrion": "2h 13min",
+        "genre": "Action",
+        "rating": "Not Rated",
+        "movie_url": "https://www.imdb.com/title/tt0056058/"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest ",
+        "year": "1975",
+        "duratrion": "2h 13min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0073486/"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers ",
+        "year": "2002",
+        "duratrion": "2h 59min",
+        "genre": "Adventure",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0167261/"
+    },
+    {
+        "title": "Goodfellas ",
+        "year": "1990",
+        "duratrion": "2h 26min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0099685/"
+    },
+    {
+        "title": "12 Angry Men ",
+        "year": "1957",
+        "duratrion": "1h 36min",
+        "genre": "Crime",
+        "rating": "Approved",
+        "movie_url": "https://www.imdb.com/title/tt0050083/"
+    },
+    {
+        "title": "Parasite ",
+        "year": "2019",
+        "duratrion": "2h 12min",
+        "genre": "Comedy",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt6751668/"
+    },
+    {
+        "title": "Forrest Gump ",
+        "year": "1994",
+        "duratrion": "2h 22min",
+        "genre": "Drama",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+        "title": "Fight Club ",
+        "year": "1999",
+        "duratrion": "2h 19min",
+        "genre": "Drama",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0137523/"
+    },
+    {
+        "title": "Schindler's List ",
+        "year": "1993",
+        "duratrion": "3h 15min",
+        "genre": "Biography",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring ",
+        "year": "2001",
+        "duratrion": "2h 58min",
+        "genre": "Action",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0120737/"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King ",
+        "year": "2003",
+        "duratrion": "3h 21min",
+        "genre": "Adventure",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0167260/"
+    },
+    {
+        "title": "Pulp Fiction ",
+        "year": "1994",
+        "duratrion": "2h 34min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0110912/"
+    },
+    {
+        "title": "The Godfather ",
+        "year": "1972",
+        "duratrion": "2h 55min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0068646/"
+    },
+    {
+        "title": "The Dark Knight ",
+        "year": "2008",
+        "duratrion": "2h 32min",
+        "genre": "Action",
+        "rating": "PG-13",
+        "movie_url": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+        "title": "The Godfather: Part II ",
+        "year": "1974",
+        "duratrion": "3h 22min",
+        "genre": "Crime",
+        "rating": "R",
+        "movie_url": "https://www.imdb.com/title/tt0071562/"
+    }
+]
